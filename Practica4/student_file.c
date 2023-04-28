@@ -61,7 +61,6 @@ int main() {
    int i;
    int array1[4] = {4, 2, 5, 76};
    int array2[9] = {50, 30, 24, 5, 28, 45, 98, 52, 60};
-
    printf("Recorrido del primer array:\n");
    for(i = 0; i < 4; i++)
       insert(array1[i]);
